@@ -1,0 +1,8 @@
+name = AngularJS RESTful
+description = Provides an integration between AngularJS and Ctools (Panels).
+package = Services - client
+core = 7.x
+
+dependencies[] = services
+dependencies[] = rest_server
+dependencies[] = angular_api
